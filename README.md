@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá eu  sou o Bruno Galvão 👋
 
-<!--
-**brunocroft86/brunocroft86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunoluck214/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/brunoluck214)
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@brunocroft)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-galv%C3%A3o-barros-412648252/)
 
-Here are some ideas to get you started:
+![Bruno Galvão GitHub stats](https://github-readme-stats.vercel.app/api?username=brunocroft86&show_icons=true&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso nomeu dia
+
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img aling="center" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </div><br/>
+
+  Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação, atualmente estou cursando Engenharia de Software.
