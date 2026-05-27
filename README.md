@@ -23,9 +23,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 <br/>
 
 ### 📊 Minhas Estatísticas
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocroft86&show_icons=true&theme=gruvbox" alt="Estatísticas do Bruno" />
-</div>
+![Estatísticas do Bruno](https://github-readme-stats.vercel.app/api?username=brunocroft86&show_icons=true&theme=gruvbox)
 
 ### 📫 Vamos Conectar!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prof.bruno_galvao/)
